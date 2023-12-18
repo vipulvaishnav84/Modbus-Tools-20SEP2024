@@ -1,0 +1,18 @@
+Modbus Slave 9.2.0.2083 x64 -KEY
+Modbus Slave 9.2.0.2083 x32 -KEY
+
+
+Click Hotkey F3 and insert a key
+
+Connection -> Connect and enter key:
+
+545541545147567C5C415B5D5E4213FC9AF3B3D9B39D13381A1765716403008A
+
+===========================================================================================
+
+Modbus Poll 10.7.0.2083 x64 -KEY
+
+
+Click Hotkey F3 and insert a key
+
+5A5742575C5D7D5C415C57564311FD9AF3B4D3BB9C11391A17627B6C0202F8
